@@ -1,0 +1,13 @@
+server\MailHandler.class
+client\SocketClient.class
+client\SocketClientExample.class
+client\SocketClientExample$1.class
+server\SocketServerExample.class
+server\SocketServer.class
+server\QueueService$EventProcessor.class
+server\Mailer$1.class
+server\QueueService.class
+messages\EmailResMsg.class
+messages\EmailReqMsg.class
+server\Mailer.class
+client\ClientMsgSender.class
